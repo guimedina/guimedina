@@ -1,4 +1,4 @@
-### Opa! Prazer, me chamo Guilherme Medina
+### Prazer, me chamo Guilherme Medina!
 
 - 🔭 Atualmente cursando Análise de Sistema
 - 🌱 Estudando CyberSecurity
