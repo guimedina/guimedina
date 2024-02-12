@@ -19,7 +19,7 @@
 
   - 💬 Graduating in Systems Analysis and Development - UCB, currently in a career transition, specializing in Offensive Security & RED Team. With over 5 years of experience as an NFT Artist, with Works of Art exhibited at renowned events and exhibitions, such as PRIMER Music Festival 2023, held in Athens - Greece.
 
-As I'm self-taught, I am always looking for new horizons and challenges. Combining technology with the universe of collectible Digital Arts on BlockChain. I have vast knowledge in Operating Systems, Hardware & Software and other subjects related to the Technological environment.
+  - As I'm self-taught, I am always looking for new horizons and challenges. Combining technology with the universe of collectible Digital Arts on BlockChain. I have vast knowledge in Operating Systems, Hardware & Software and other subjects related to the Technological environment.
 </details>
 
 <!-- Links -->
