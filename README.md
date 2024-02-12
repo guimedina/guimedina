@@ -57,7 +57,7 @@
  
   <!-- Skills: OS -->
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
+    <h3>OS</h3>
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
     <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
     <img align="center" alt="MacOs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
