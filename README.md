@@ -30,7 +30,7 @@
 
 <!-- Projects -->
 ## Projects:
-- [In Progress](https://github.com/guimedina/HostScan)
+- [Bash - Host Scan Script](https://github.com/guimedina/HostScan)
 
 <!-- GIF -->
 <p align="left">
