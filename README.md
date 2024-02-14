@@ -8,7 +8,7 @@
 <p>
   👋 Hey! I'm Guilherme Medina! A passionate Offensive Security student and NFT Artist from Brazil :)
 
-  - 🌱 I’m studying Systems Development at UCB & Offensive Security & Ethical Hacking.
+  - 🌱 I’m studying Systems Development & Offensive Security & Ethical Hacking.
 
   - 🔭 I'm looking for my first opportunity. Currently SYCP - Solyd Off Sec in progress.
 </p>
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Graduating in Systems Analysis and Development - UCB, currently in a career transition, specializing in Offensive Security & RED Team. With over 5 years of experience as an NFT Artist, with Works of Art exhibited at renowned events and exhibitions, such as PRIMER Music Festival 2023, held in Athens - Greece.
+  - 💬 Graduating in Systems Analysis and Development, currently in a career transition, specializing in Offensive Security & RED Team. With over 5 years of experience as an NFT Artist, with Works of Art exhibited at renowned events and exhibitions, such as PRIMER Music Festival 2023, held in Athens - Greece.
 
   - ⚡ As I'm self-taught, I am always looking for new horizons and challenges. Combining technology with the universe of collectible Digital Arts on BlockChain. I have vast knowledge in Operating Systems, Hardware & Software and other subjects related to the Technological environment.
 </details>
