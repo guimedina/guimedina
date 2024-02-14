@@ -28,9 +28,9 @@
 <!-- GithubStats -->
 ![Guilherme Medina GitHub stats](https://github-readme-stats.vercel.app/api?username=guimedina&show_icons=true&theme=radical)
 
-<!-- Portfolio -->
-## Portfolio:
-- [In Progress]
+<!-- Projects -->
+## Projects:
+- [In Progress](https://github.com/guimedina/HostScan)
 
 <!-- GIF -->
 <p align="left">
